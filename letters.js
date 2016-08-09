@@ -1,3 +1,3 @@
 $(document).ready(function(){
-  $('.letters').text('A, B');
+  $('.letters').text('A, B, C');
 });
